@@ -13,4 +13,4 @@ Check out my projects and contact me below.
 
 ## 📬 Contact
 📧 Email: [zacktech56@gmail.com](mailto:zacktech56@gmail.com.com)  
-🔗 LinkedIn: [[Your LinkedIn](https://www.linkedin.com/in/paul-udah/)](#)
+🔗 LinkedIn: [https://www.linkedin.com/in/paul-udah/](#)
