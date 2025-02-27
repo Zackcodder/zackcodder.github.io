@@ -4,7 +4,10 @@ title: Udah Paulzack Senoir Mobile Dev Porfolio
 ---
 
 # About Me 🚀
-I am Udah Paulzack, a Senior Flutter Developer & Mobile Software Engineer with over 5 years of experience building high-performance mobile applications. With a strong background in Mechatronics Engineering, I specialize in developing fintech solutions, ride-sharing apps, payment system integration, and process automation tools among others.
+I am Udah Paulzack, a Senior Flutter Developer & Mobile Software Engineer with over 5 years of experience building high-performance mobile applications. With a strong background in Mechatronics Engineering, I specialize in developing cross-platform (iOS and Andriod) fintech solutions, E-commerce application, Custom Application, ride-sharing apps, payment system integration, and process automation tools among others.
+
+[Click to download Resume](https://drive.google.com/file/d/1-ItB08siBE7NXX_yWUkC9jOL5Wt3RdDs/view?usp=sharing)
+
 
 I have a proven track record of:
 - ✅ Improving app performance and user engagement by 90%
@@ -23,7 +26,6 @@ Beyond coding, I have contributed to AI research and autonomous vehicle systems,
 - 🔹 Intellyjent(EdTech APP): [playstore](https://play.google.com/store/apps/details?id=com.intellyjent.intellyjent&hl=en)
 - 🔹 ExpenseManager: [GitHub](https://github.com/Zackcodder/Expenses_Manager.git)
 - 🔹 UBuy: [GitHub](https://github.com/Zackcodder/Ubuy.git)
--  
 
 ## 📬 Contact Me
 📧 Email: [Gmail](mailto:zacktech56@gmail.com.com)  
