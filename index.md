@@ -33,5 +33,6 @@ Beyond coding, I have contributed to AI research and autonomous vehicle systems,
 
 ## 📬 Contact Me
 Want to collaborate on a project? 
+
 📧 Email: [Gmail](mailto:zacktech56@gmail.com.com)  
 🔗 LinkedIn: [Udah Paulzack](https://www.linkedin.com/in/paul-udah/)
