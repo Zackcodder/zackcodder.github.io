@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Udah Paulzack Senoir Mobile Dev Porfolio
+title: Udah (Paulzack Senoir Mobile Dev)
 ---
 
 # About Me 🚀
