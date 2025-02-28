@@ -1,5 +1,5 @@
 title: "Udah Paulzack (Senoir Flutter Developer)"
 description: "Welcome to my personal portfolio website."
-theme: minima  # You can change this to another Jekyll theme
+theme: jekyll-theme-hacker  # You can change this to another Jekyll theme
 baseurl: ""  # Leave empty if it's a user/organization site
 url: "https://github.com/zackcodder.github.io/"
