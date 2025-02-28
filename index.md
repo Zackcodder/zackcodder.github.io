@@ -32,5 +32,6 @@ Beyond coding, I have contributed to AI research and autonomous vehicle systems,
 - 🔹 AClass: [GitHub](https://github.com/Zackcodder/A_CLass.git)
 
 ## 📬 Contact Me
+Want to collaborate on a project? 
 📧 Email: [Gmail](mailto:zacktech56@gmail.com.com)  
 🔗 LinkedIn: [Udah Paulzack](https://www.linkedin.com/in/paul-udah/)
