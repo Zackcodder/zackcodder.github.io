@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Udah (Paulzack Senoir Mobile Dev)
+title: Udah Paulzack (Senoir Flutter Mobile Dev)
 ---
 
 # About Me 🚀
