@@ -19,7 +19,8 @@ I am proficient in:
 - State Management: Provider, GetX, Stacked (MVVM)
 - Tools & Platforms: GitHub, Bitbucket, CI/CD, AWS, Google Maps API, VSCode, Android Studio, Swagger, Jira
 - Software Development: Agile, Scrum, TDD, UI/UX Design
-- Skill: Debugging, Problem Solving, revamping, Optimization, Payment integration, Socket.io, Websocket,
+- Skill: Debugging, Problem Solving, revamping, Optimization, Payment integration, Socket.io, Websocket.
+
 Beyond coding, I have contributed to AI research and autonomous vehicle systems, with publications in IEEE Conferences and ASTES Journals.
 
 ## 📂 Projects Worked on
