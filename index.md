@@ -17,8 +17,9 @@ I have a proven track record of:
 I am proficient in:
 - Languages & Frameworks: Flutter, Dart, Firebase, REST APIs
 - State Management: Provider, GetX, Stacked (MVVM)
-- Tools & Platforms: GitHub, Bitbucket, CI/CD, AWS, Google Maps API
+- Tools & Platforms: GitHub, Bitbucket, CI/CD, AWS, Google Maps API, VSCode, Android Studio, Swagger, Jira
 - Software Development: Agile, Scrum, TDD, UI/UX Design
+- Skill: Debugging, Problem Solving, revamping, Optimization, Payment integration, Socket.io, Websocket,
 Beyond coding, I have contributed to AI research and autonomous vehicle systems, with publications in IEEE Conferences and ASTES Journals.
 
 ## 📂 Projects Worked on
@@ -26,6 +27,8 @@ Beyond coding, I have contributed to AI research and autonomous vehicle systems,
 - 🔹 Intellyjent(EdTech APP): [playstore](https://play.google.com/store/apps/details?id=com.intellyjent.intellyjent&hl=en)
 - 🔹 ExpenseManager: [GitHub](https://github.com/Zackcodder/Expenses_Manager.git)
 - 🔹 UBuy: [GitHub](https://github.com/Zackcodder/Ubuy.git)
+- 🔹 RoducateAir: [GitHub](https://github.com/Zackcodder/roducate_air.git)
+- 🔹 AClass: [GitHub](https://github.com/Zackcodder/A_CLass.git)
 
 ## 📬 Contact Me
 📧 Email: [Gmail](mailto:zacktech56@gmail.com.com)  
