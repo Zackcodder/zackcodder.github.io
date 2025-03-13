@@ -21,7 +21,7 @@ I am proficient in:
 - Software Development: Agile, Scrum, TDD, UI/UX Design
 - Skill: Debugging, Problem Solving, revamping, Optimization, Payment integration, Socket.io, Websocket.
 
-Beyond coding, I have contributed to AI research and autonomous vehicle systems, with publications in IEEE Conferences and ASTES Journals.
+Beyond coding, I have contributed to advancement of inovation in the field of AI research and autonomous vehicle systems, with publications in IEEE Conferences and ASTES Journals.
 
 ## 📂 Projects Worked on
 - 🔹 SmartPay: [GitHub](https://github.com/Zackcodder/smartpay.git)
