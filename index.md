@@ -4,7 +4,7 @@ title: Udah Paulzack (Senoir Flutter Mobile Dev)
 ---
 
 # About Me 🚀
-A season Senior Flutter Developer & Mobile Software Engineer with over 5 years of experience building high-performance mobile applications. With a strong background in Mechatronics Engineering. I specialize in developing cross-platform (iOS and Andriod) for fintech solutions, E-commerce application, Custom Application, ride-sharing apps, payment system integration, and process automation tools among others Using modern development techniques and tools in converting designs into user centric and dynamic mobile application.
+A lover of innovation and tech, a season Senior Flutter Developer & Mobile Software Engineer with over 5 years of experience building high-performance mobile applications. With a strong background in Mechatronics Engineering. I specialize in developing cross-platform (iOS and Andriod) for fintech solutions, E-commerce application, Custom Application, ride-sharing apps, payment system integration, and process automation tools among others Using modern development techniques and tools in converting designs into user centric and dynamic mobile application.
 
 [Click to download Resume](https://drive.google.com/file/d/1-ItB08siBE7NXX_yWUkC9jOL5Wt3RdDs/view?usp=sharing)
 
